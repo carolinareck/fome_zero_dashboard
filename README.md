@@ -1,5 +1,7 @@
 Fome Zero - Dashboard Estratégico 
 
+https://fome-zero-restaurante-dash.streamlit.app
+
 Este repositório contém o código de um dashboard interativo desenvolvido com Streamlit. O painel é uma ferramenta de Business Intelligence projetada para fornecer insights estratégicos a partir dos dados da plataforma Fome Zero, auxiliando na tomada de decisão baseada em dados.
 
 1. Problema de Negócio
