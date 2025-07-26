@@ -130,7 +130,7 @@ st.set_page_config(
 
 # Carrega e processa os dados (usando o cache se disponível)
 # ATENÇÃO: O caminho do arquivo está fixo. Modifique se necessário.
-file_path = 'database/zomato.csv'
+file_path = 'zomato-restaurante/database/zomato.csv'
 df_raw = load_and_preprocess_data(file_path)
 
 # Injetar CSS para estilizar o menu de navegação na sidebar
